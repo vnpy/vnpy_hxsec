@@ -1,0 +1,3 @@
+vt_symbol,direction,limit_price,total_volume,time_interval,batch_count,price_range
+rb2210.SHFE,多,5000,10,10,10,0.1
+rb2301.SHFE,空,3000,10,10,10,0.1
